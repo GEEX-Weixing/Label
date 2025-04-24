@@ -1,4 +1,3 @@
-##Thanks to
 Thanks to the following projects, in no particular order
 
 * [M3S](https://github.com/Junseok0207/M3S_Pytorch)
