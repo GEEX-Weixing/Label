@@ -6,7 +6,18 @@
 ```
 sh train.sh
 ```
-
+### Dataset: Cora, CiteSeer, PubMed, Amazon Conputers, Coauthor CS, Ogbn-Arxiv
+```
+python run.py
+```
+### Dataset: Texas, Wisconsin, Amazon ratings, Chameleon, Squirrel
+```
+python run_h.py
+```
+### Mask-Label
+```
+python run_m.py
+```
 ## Acknowledgements:
 Thanks to the following projects, in no particular order
 
