@@ -1,3 +1,7 @@
+# Locally-Biased Graph Contrastive Learning Impels GNNs Against Label Scarcity
+
+
+
 Thanks to the following projects, in no particular order
 
 * [M3S](https://github.com/Junseok0207/M3S_Pytorch)
