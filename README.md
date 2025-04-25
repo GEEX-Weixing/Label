@@ -1,6 +1,7 @@
 # Locally-Biased Graph Contrastive Learning Impels GNNs Against Label Scarcity
 ## Framework:
  ![Image text](https://github.com/GEEX-Weixing/Label/blob/main/data/LABEL_0.pdf)
+[LABEL_0.pdf](https://github.com/user-attachments/files/19901207/LABEL_0.pdf)
 
 ## Run:
 ```
